@@ -1,6 +1,6 @@
 """
 Amazon Reimbursement Analytics Dashboard
-Streamlit version — by Muhammad Zia
+Streamlit version — by Agha Fahad Khan
 ----------------------------------------
 Multi-user access controlled via .streamlit/secrets.toml
 """
@@ -166,7 +166,7 @@ def check_password() -> bool:
         """
         <div class="topbar">
           <div class="topbar-title">📦 Amazon <span>Reimbursement</span> Analytics</div>
-          <div class="topbar-subtitle">by Muhammad Zia — please sign in to continue</div>
+          <div class="topbar-subtitle">by Agha Fahad Khan — please sign in to continue</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -786,7 +786,7 @@ def main() -> None:
           <div style="display:flex;justify-content:space-between;align-items:center;">
             <div>
               <div class="topbar-title">📦 Amazon <span>Reimbursement</span> Analytics</div>
-              <div class="topbar-subtitle">by Muhammad Zia — signed in as <b>{user}</b></div>
+              <div class="topbar-subtitle">by Agha Fahad Khan — signed in as <b>{user}</b></div>
             </div>
           </div>
         </div>
