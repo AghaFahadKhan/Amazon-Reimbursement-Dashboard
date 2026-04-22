@@ -4,7 +4,7 @@ A secure, multi-user web application that turns any Amazon Seller
 Reimbursements CSV into an interactive analytics dashboard with KPIs,
 date filters, compare-mode, and seven tabs of charts and tables.
 
-> Built by **Muhammad Zia** — Streamlit port of the original HTML dashboard.
+> Built by **Agha Fahad Khan** — Streamlit port of the original HTML dashboard.
 
 ---
 
@@ -90,7 +90,7 @@ git push -u origin main
 2. Sign in with your GitHub account
 3. Click **"Create app"** → **"Deploy a public app from GitHub"**
 4. Pick your repository, branch `main`, and main file path `app.py`
-5. (Optional) pick a custom subdomain like `zia-reimbursement`
+5. (Optional) pick a custom subdomain like `agha-reimbursement`
 
 ### Step 3 — Add your secrets in the cloud
 
@@ -196,4 +196,4 @@ Edit `.streamlit/config.toml` → `maxUploadSize = 500` (or whatever).
 
 ## 📧 Questions
 
-Open an issue on the repo, or contact Muhammad Zia.
+Open an issue on the repo, or contact Agha Fahad Khan.
